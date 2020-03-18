@@ -1,5 +1,6 @@
 import React from 'react'
 import Gif from './gif'
+import './gif_list.scss'
 
 const GifList = (props) => {
 

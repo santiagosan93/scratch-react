@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import SearchBar from './components/search_bar';
 import MainScene from './components/main_scene';
 import GifList from './components/gif_list';
-import giphy from 'giphy-api'
+import giphy from 'giphy-api';
+import './App.scss'
 
 class App extends Component {
   constructor(props) {

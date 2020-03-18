@@ -1,5 +1,6 @@
 import React from 'react'
 import Gif from './gif'
+import './main_scene.scss'
 
 const MainScene = (props) => {
   return(
